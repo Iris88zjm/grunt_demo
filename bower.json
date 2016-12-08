@@ -1,0 +1,16 @@
+{
+  "name": "gallery",
+  "authors": [
+    "Iris88zjm <327055610@qq.com>"
+  ],
+  "description": "gallery",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "underscore": "^1.8.3",
+    "masonry": "^4.1.1"
+  }
+}
